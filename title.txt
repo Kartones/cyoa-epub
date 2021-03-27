@@ -1,0 +1,7 @@
+---
+title: Choose Your Own Adventure Experiment
+author: Kartones
+rights: Unlicense License
+language: en-US
+cover-image: img/book-cover.jpg
+...

@@ -1,0 +1,13 @@
+version: "2"
+services:
+  cyoa-epub:
+    build:
+      context: ..
+      dockerfile: build/Dockerfile
+    image: cyoa-epub
+    volumes:
+      - ..:/code
+      - ..:/opt/cyoa-epub
+      - ~/.bash_history.cyoa-epub:/home/cyoa-epub/.bash_history
+    working_dir: /code
+    command: "/bin/true"
