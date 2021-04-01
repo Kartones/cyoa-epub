@@ -4,6 +4,9 @@ This is just a tiny experiment of what would be to create an old Choose Your Own
 
 The main idea is to use chapters as the old page markers, as in  "if you choose to open the door, go to page xxx", because with digital books pages are dynamic in size and amount, but chapter markers a) always denote the start of a new page and b) are easily referenced from anywhere.
 
+Here's how it looked a late prototype on my Kindle:
+![Testing at my Kindle reader](https://images.kartones.net/posts/kartonesblog/cyoa-testing.jpg)
+
 **Rules**
 
 The rules are quite simple: Always start at the first chapter, and always move to one of the choices you're given at the end of each chapter. Do not manually advance pages or you will spoil the fun.
